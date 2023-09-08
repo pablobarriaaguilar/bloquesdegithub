@@ -1,0 +1,35 @@
+img {
+    height: 200px;
+}
+
+
+.lista1{
+    background-color: aquamarine;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+.lista2{
+    background-color: pink;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+.lista3{
+    background-color: whitesmoke;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    
+}
